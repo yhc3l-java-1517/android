@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dag2</string>
+    <string name="welcome_message">Hej världen!</string>
+    <string name="welcome_message_land">Hej landskap!</string>
+</resources>

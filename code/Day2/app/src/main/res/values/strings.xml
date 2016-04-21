@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day2</string>
+    <string name="welcome_message">Hello World!</string>
+    <string name="welcome_message_land">Hello Land!</string>
+</resources>
